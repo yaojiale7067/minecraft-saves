@@ -1,0 +1,140 @@
+{
+  "data_version": 3,
+  "players": {
+    "10": {
+      "data_version": 4,
+      "pos": {
+        "x": 0.6718951605276026,
+        "y": 65.62699602314244,
+        "z": -4.051706332578795
+      },
+      "direction": {
+        "yaw": -0.44592285,
+        "pitch": 69.74989
+      },
+      "dimension": "minecraft:the_end",
+      "gamemode": "creative",
+      "flying": true,
+      "sneaking": false,
+      "autologin": false,
+      "annotation": "",
+      "simple_action": {
+        "use": {
+          "interval": 1,
+          "continuous": true
+        }
+      },
+      "script_action": {
+        "stop": {}
+      },
+      "startup_action": [],
+      "group": []
+    },
+    "9": {
+      "data_version": 4,
+      "pos": {
+        "x": 6.284478753165541,
+        "y": 63.75593821056112,
+        "z": 1.9031459575926404
+      },
+      "direction": {
+        "yaw": 116.85159,
+        "pitch": 39.14978
+      },
+      "dimension": "minecraft:the_end",
+      "gamemode": "creative",
+      "flying": true,
+      "sneaking": false,
+      "autologin": false,
+      "annotation": "",
+      "simple_action": {
+        "use": {
+          "interval": 1,
+          "continuous": true
+        }
+      },
+      "script_action": {
+        "stop": {}
+      },
+      "startup_action": [],
+      "group": []
+    },
+    "1": {
+      "data_version": 4,
+      "pos": {
+        "x": -2.9999959090374514E7,
+        "y": 129.11004106709322,
+        "z": -2.9999993354120083E7
+      },
+      "direction": {
+        "yaw": 0.7458496,
+        "pitch": -7.200142
+      },
+      "dimension": "minecraft:the_nether",
+      "gamemode": "creative",
+      "flying": true,
+      "sneaking": false,
+      "autologin": false,
+      "annotation": "",
+      "simple_action": {},
+      "script_action": {
+        "stop": {}
+      },
+      "startup_action": [],
+      "group": []
+    },
+    "tnt": {
+      "data_version": 4,
+      "pos": {
+        "x": -267.78306991571566,
+        "y": 8.0,
+        "z": -2086.5217554102333
+      },
+      "direction": {
+        "yaw": 88.197754,
+        "pitch": 77.549995
+      },
+      "dimension": "minecraft:overworld",
+      "gamemode": "creative",
+      "flying": true,
+      "sneaking": false,
+      "autologin": false,
+      "annotation": "",
+      "simple_action": {},
+      "script_action": {
+        "stop": {}
+      },
+      "startup_action": [],
+      "group": []
+    },
+    "snow": {
+      "data_version": 4,
+      "pos": {
+        "x": 61.69999998807907,
+        "y": -63.0,
+        "z": -2147.475596820907
+      },
+      "direction": {
+        "yaw": 179.83948,
+        "pitch": -1.2000101
+      },
+      "dimension": "minecraft:overworld",
+      "gamemode": "creative",
+      "flying": false,
+      "sneaking": false,
+      "autologin": false,
+      "annotation": "",
+      "simple_action": {
+        "use": {
+          "interval": 1,
+          "continuous": false
+        }
+      },
+      "script_action": {
+        "stop": {}
+      },
+      "startup_action": [],
+      "group": []
+    }
+  }
+}

@@ -1,0 +1,6112 @@
+{
+  "active": "default",
+  "committedSnapshot": {
+    "carpet:silverFishDropGravel": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:easyMaxLevelBeacon": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:CCEUpdateSuppression": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:carpets": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:shulkerBoxFurnace": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:breakingRestriction": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerToolDamagedNotification": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:preciseEntityPlacement": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableOpenOrWaterDetection": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:witherSpawnedSoundDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:easyMineDragonEgg": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandSetPassword": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:infiniteDurability": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tiscmNetworkProtocol": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:revertZombieFeatures": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:superBow": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:getStorageDataCooldownSeconds": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:voidTrading": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:infinitelyVault": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandPlayerLeader": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerForceOfflineUUID": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableAiGoals": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fragileVault": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandCleanGetItemBot": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:customPiglinBarteringTime": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:pearlNoTp": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:experimentalMinecartSpeed": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:shulkerSpawningInEndCities": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:globalSlimeChunk": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scriptsDebugging": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:riptideIgnoreConditions": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fragileBlocks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disablePortalUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerMaxItemOperationCount": {
+      "value": "3",
+      "isDefault": false
+    },
+    "carpet:smoothClientAnimations": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:customBlockUpdateSuppressor": {
+      "value": "none",
+      "isDefault": false
+    },
+    "carpet:commandPlayerAction": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:disableNyliumDecay": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:healthNotFullCanEat": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandAtSomeOnePlayer": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:mobcapsDisplayIgnoreMisc": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:noEnchantmentLevelLimit": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:naturalSpawningUse13Heightmap": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:flattenTriangularDistribution": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:opPlayerNoCheat": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:oreFeatureCanSendBlockUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:explosionProofBuddingAmethyst": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandFinder": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:bedrockCanBeMined": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:stackableDiscounts": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:gcaPageSize": {
+      "value": "8",
+      "isDefault": false
+    },
+    "carpet:optimizedTNT": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:durableItemShadow": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:namedWanderingTraderPersistence": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:elytraFireworkKeepLeashConnection": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:clientSettingsLostOnRespawnFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:cauldronBlockItemInteractFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:turtleEggTrampledDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:turtleEggFastHatch": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:recordPlayerCommand": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:simpleInGameCalculator": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:silkTouchFrostedIce": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:beaconRangeExpand": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:commandLocations": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:commandClearPearTrail": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:noEnchantedGoldenAppleEating": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lowHealthSpectatorThreshold": {
+      "value": "5.0",
+      "isDefault": false
+    },
+    "carpet:commandNavigate": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:renewableElytra": {
+      "value": "0.0",
+      "isDefault": false
+    },
+    "carpet:fasterMovementController": {
+      "value": "all",
+      "isDefault": false
+    },
+    "carpet:xpFromExplosions": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:flippinTotem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:debugNbtQueryNoPermission": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:playerCommandDropall": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disablePlayerAttackingTamedMobs": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:softTrialSpawner": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:betterTotemOfUndying": {
+      "value": "vanilla",
+      "isDefault": false
+    },
+    "carpet:flushFakePlayerNetworkQueue": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:optimizedDragonRespawn": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeNoItemCooldown": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandCustomMovableBlock": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fireworkRocketUseCooldown": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandCustomCommandPermissionLevel": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:rottenFleshBurnedIntoLeather": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:maxBlockPlaceDistance": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:commandRuleSearch": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:entityHighLight": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:spectatorPlayerCannotDropItem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:iceLikeMagmaBlocks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:renewableDragonEgg": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lagFreeSpawning": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:breedableParrots": {
+      "value": "none",
+      "isDefault": false
+    },
+    "carpet:overspawningReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandWhere": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandMachineStatus": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:farmlandPreventStepping": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:HUDLoggerUpdateInterval": {
+      "value": "20",
+      "isDefault": false
+    },
+    "carpet:structureBlockDoNotPreserveFluid": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lightingUpdateSkipsThresholds": {
+      "value": "250",
+      "isDefault": false
+    },
+    "carpet:maxPlayerEntityInteractionRange": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:commandCustomAntiFireItems": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:neutralPhantoms": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:language": {
+      "value": "en_us",
+      "isDefault": false
+    },
+    "carpet:commandTrackAI": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:commandLMSBot": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:wetExplosionReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandSetPlayerPose": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:blockPlacementIgnoreEntity": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandGetPlayerSkull": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:betterCraftableBoneBlock": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:rustingCopperManually": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:moveableReinforcedDeepslate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:chunkPopulationCanAffectLoadedChunks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:craftableDragonBreath": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:spongeCanBeDriedNaturally": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scriptsOptimization": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:easyWitherSkeletonSkullDrop": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableWaterFreezes": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerNameSuffix": {
+      "value": "#none",
+      "isDefault": false
+    },
+    "carpet:getItemDelayMs": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:explosionNoBlockDamage": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerAutoReplaceTool": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fancyFakePlayerName": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:preventServerPause": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lowHealthSpectator": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableBatCanSpawn": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:persistentParrots": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:defaultLoggers": {
+      "value": "none",
+      "isDefault": false
+    },
+    "carpet:naturalSpawningUse13HeightmapExtra": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandSeed": {
+      "value": "vanilla",
+      "isDefault": false
+    },
+    "carpet:fixedEndCrystalSync": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:infiniteBuff": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandBot": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:commandTransfer": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:getItemCooldownSeconds": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:shulkerBoxStackable": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandWhereis": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:SignCommand": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:openPlayerInventory": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:yeetOutOfOrderChatKick": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:noSensationPearlLoad": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandPerimeterInfo": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:toughWitherRose": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandGetStorageData": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:betterItemFrameInteraction": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerAutoReplenishment": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableKelpNaturalGrowth": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandXpTransfer": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:microTimingTickDivision": {
+      "value": "world_timer",
+      "isDefault": false
+    },
+    "carpet:reloadrefreshirongolem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:beaconIgnoresObstruction": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:entityPathNavigationStuckDetectionUseRealTimeReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:spawnersIgnoreInvisiblePlayers": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:undeadDontBurnInSunlight": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:silkTouchBuddingAmethyst": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:playerCommandCloseScreen": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePeace": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:preventEndSpikeRespawn": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:powerfulExpMending": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lightningKillsDropsFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:shulkerGolem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:blockChunkLoaderRangeController": {
+      "value": "3",
+      "isDefault": false
+    },
+    "carpet:keepMobInLazyChunks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:furnaceSmeltingTimeController": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:experimentalMinecartEnabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableFakePlayerCollision": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:blockEntitySwapReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:reintroduceLlamaItemDuplicating": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:vaultBlacklistDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:frostedIceProperToolFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:villagerInfiniteTrade": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandPlayerNoNetherPortalTeleport": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:itemAntiExplosion": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:cancelZombifiedPiglinsBreakEgg": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandSop": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:woolSuppressesSculkSpread": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:chestMinecartChunkLoader": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerSpawnNoKnockback": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:dispensersFireDragonBreath": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fillCommandModeEnhance": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:villagerTradingOptimization": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scriptsAppStore": {
+      "value": "gnembon/scarpet/contents/programs",
+      "isDefault": false
+    },
+    "carpet:fluidDestructionDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:redstoneDustRandomUpdateOrder": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:endermanPickUpDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:hopperNoItemCost": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:testRule": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:hangingEntitiesDropInstantly": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativePlayersLoadChunks": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:villagerHeal": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:unloadedEntitiesDoNotAffectLoadedChunk": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandDistance": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:antiSpamDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:betterCraftablePolishedBlackStoneButton": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:stopCommandDoubleConfirmation": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:instantCommandBlock": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:opInSurvivalCommandBlocks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandLMSOthers": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:maxClientInteractionReachDistance": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:blockChunkLoaderKeepWorldTickUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:mobsSpawnWithoutSpears": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:wanderingTraderSpawnRemind": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:flippinCactusSoundEffect": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:headHunter": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:renewableNetheriteScrap": {
+      "value": "0.0",
+      "isDefault": false
+    },
+    "carpet:stridergodie": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:playerManagerForceComment": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandSpawn": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:movableBlockEntities": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lowHealthSpectatorMethod": {
+      "value": "vanilla",
+      "isDefault": false
+    },
+    "carpet:easyGetPitcherPod": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:tickFreezeDeepCommand": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandLifeTime": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:easyCompost": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:carpetAlwaysSetDefault": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:spawnBabyProbably": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:disableMobPeacefulDespawn": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:entityInstantDeathRemoval": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:allayHealInterval": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:explosionNoEntityInfluence": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:staringEndermanNotAngry": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerActionKeepItem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandWlist": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scheduledRandomTickStem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:largeShulkerBox": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:undyingCoral": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:witchGlowstoneDustDropController": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:entityIdCounterLoggerSamplingDuration": {
+      "value": "100",
+      "isDefault": false
+    },
+    "carpet:playerDropsNotDespawning": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:superChargedCreeper": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandHere": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:blockDyeing": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:observerNoDetection": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:signAllowedCommands": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tntDupingFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerNoScoreboardCounter": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:manipulateBlockLimit": {
+      "value": "1000000",
+      "isDefault": false
+    },
+    "carpet:openFakePlayerInventory": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandLog": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:voidDamageAmount": {
+      "value": "4.0",
+      "isDefault": false
+    },
+    "carpet:poiUpdates": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:commandLoc": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:maxPlayerBlockInteractionRangeScope": {
+      "value": "server",
+      "isDefault": false
+    },
+    "carpet:useItemCooldownDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:microTiming": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:pistonBreakingBlockProducesUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableWindChargeEffect": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandAnvilInteractionDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:dustTrapdoorReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:safeFlight": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:chainStone": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:dispenserBartering": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:structureBlockOutlineDistance": {
+      "value": "96",
+      "isDefault": false
+    },
+    "carpet:pearlnotloadingchunk": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandCustomBlockBlastResistance": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:piglinTradeInstantly": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:noCakeEating": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:superSecretSetting": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:huskSpawningInTemples": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:playerCommandOpenPlayerInventoryOption": {
+      "value": "fake_player",
+      "isDefault": false
+    },
+    "carpet:endPortalOpenedSoundDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:maxUpdateDepth": {
+      "value": "512",
+      "isDefault": false
+    },
+    "carpet:betterPiglinAI": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerIgnoreThornsDamage": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeNoClip": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:renewableDeepslate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:endermanTeleportRandomlyDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:setAnvilExperienceConsumptionLimit": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:modifiableEndGatewayCooldown": {
+      "value": "40",
+      "isDefault": false
+    },
+    "carpet:craftableEnchantedGoldenApples": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:hightLightLivingEntity": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandBotController": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:channelingIgnoreConditions": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:endPortalFrameCanBeMined": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:rightClickBlockUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:craftableCoralBlocks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandPlayerChunkLoadController": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:oreBreeding": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerPickUpController": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:hopperCountersUnlimitedSpeed": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:flippinCactus": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tickCommandEnhance": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:enchantedGoldenAppleRecipe": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:noCreativePickupWhenFull": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:knockbackStick": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:renewableDragonHead": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandBlist": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:piglinsSpawningInBastions": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:optimizedTNTHighPriority": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:openTpPermission": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:perfectInvisibility": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:entityBrainMemoryUnfreedFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:entityMomentumLoss": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:PortalPearlWarp": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandRaid": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:hopperCounters": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:getItemMaxCount": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:fertilizableSmallFlower": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:canMineSpawner": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fixLecternStateUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:hardcodeTNTangle": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:sculkSensorRange": {
+      "value": "8",
+      "isDefault": false
+    },
+    "carpet:commandPlayerManager": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:commandSleep": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:largeBarrel": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:updateSuppressionBlock": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:commandRefresh": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:fakePlayerResident": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:bellBlockChunkLoader": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:spawnJockeyProbably": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:yeetIdleMspt": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:infinitelyTotem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:softObsidian": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:syncServerMsptMetricsData": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:removedThreadChecks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:chunkUpdatePacketThreshold": {
+      "value": "64",
+      "isDefault": false
+    },
+    "carpet:commandGetHeldItemID": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:maxChainDepth": {
+      "value": "1000000",
+      "isDefault": false
+    },
+    "carpet:playerCanSit": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableCreativeContainerDrops": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:instantScheduling": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerShulkerBoxItemHandling": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:amsTranslationMode": {
+      "value": "client",
+      "isDefault": false
+    },
+    "carpet:recordWorldEventFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:protectionEnchantmentCompatible": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:customEndPlatformPosition": {
+      "value": "vanilla",
+      "isDefault": false
+    },
+    "carpet:hopperSuctionDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:reusableSmithingTemplate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:blowUpEverything": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:soundSuppressionRadius": {
+      "value": "16",
+      "isDefault": false
+    },
+    "carpet:customizeTheArrowOwner": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:phantomSpawnWarning": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lifeTimeTrackerConsidersMobcap": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:invulnerable": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:botTabListNameSuffix": {
+      "value": "#none",
+      "isDefault": false
+    },
+    "carpet:breedingCooldownDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:renewableSponges": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:beaconProperToolFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:antiCheatDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:pushLimit": {
+      "value": "12",
+      "isDefault": false
+    },
+    "carpet:maxEntityCollisions": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:itemEntityCreateNetherPortalDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:bindingCurseInvalidation": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:dispenserCollectXp": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:chunkTickSpeed": {
+      "value": "1",
+      "isDefault": false
+    },
+    "carpet:netherPortalMaxSize": {
+      "value": "21",
+      "isDefault": false
+    },
+    "carpet:sharedVillagerDiscounts": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:farmlandTrampledDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:allowSpawningOfflinePlayers": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:tickProfilerCommandsReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:quickSettingFakePlayerCraft": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:structureBlockLimit": {
+      "value": "48",
+      "isDefault": false
+    },
+    "carpet:playerCommandTeleportFakePlayer": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:onlyPlayerCanCreateNetherPortal": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeNetherWaterPlacement": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandsetnoisesuppressor": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeHitRemoveEntity": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:preventAdministratorCheat": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tooledTNT": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tickCommandCarpetfied": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:welcomePlayer": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:maxLinesPerPage": {
+      "value": "10",
+      "isDefault": false
+    },
+    "carpet:machineStatusRollbackWarning": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:reintroduceOlderShulkerBullet": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:renewableBlackstone": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lightQueueLoggerSamplingDuration": {
+      "value": "60",
+      "isDefault": false
+    },
+    "carpet:simpleChunkDupe": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:repeaterHalfDelay": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:summonNaturalLightning": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeInstantTame": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:stackableShulkerBoxes": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:railPowerLimit": {
+      "value": "9",
+      "isDefault": false
+    },
+    "carpet:tntFuseDuration": {
+      "value": "80",
+      "isDefault": false
+    },
+    "carpet:regeneratingDragonEgg": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:strongLeash": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerDefaultSurvivalMode": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:betterWoodStrip": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:reintroduceDolphinPortalItemDupe": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:pingPlayerListLimit": {
+      "value": "12",
+      "isDefault": false
+    },
+    "carpet:creativeOneHitKill": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:shulkerDupLowHealthFailChance": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:instantBlockUpdaterReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandItemShadowing": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:commandPlayerActionPerTick": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:pistonBlockChunkLoader": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:leaderZombieSpawnWithMaxHealthDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:minecartTakePassengerMinVelocity": {
+      "value": "0.1",
+      "isDefault": false
+    },
+    "carpet:fakePlayerSuffixName": {
+      "value": "#none",
+      "isDefault": false
+    },
+    "carpet:explosionPacketRange": {
+      "value": "64.0",
+      "isDefault": false
+    },
+    "carpet:commandGetItem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:peacefulCreeper": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeFlySpeed": {
+      "value": "1.0",
+      "isDefault": false
+    },
+    "carpet:placeableNetherPortal": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:viewDistance": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:witchRedstoneDustDropController": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:disableAIEntitities": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:minecartPlaceableOnGround": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:updateSuppressionSimulator": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandGetSaveSize": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fasterMovement": {
+      "value": "vanilla",
+      "isDefault": false
+    },
+    "carpet:fakePlayerUseOfflinePlayerUUID": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:crafterStopsWhenOutputBlocked": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandProfile": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:optimizedFastEntityMovement": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeFlyDrag": {
+      "value": "0.09",
+      "isDefault": false
+    },
+    "carpet:playerCommandOpenPlayerInventory": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:redstoneComponentSound": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerAutoRespawn": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:websiteGetItem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableAirborneMiningPenalty": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:dispenserCollectCauldron": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:interactionUpdates": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:reintroduceOlderPathfinding": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:itemFrameFixed": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:mergeTNTPro": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lowHealthSpectatorCooldown": {
+      "value": "200",
+      "isDefault": false
+    },
+    "carpet:keepWorldTickUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:welcomeMessage": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:superZombieDoctor": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scaffoldingBlockCanBeRipening": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:sendPlayerDeathLocation": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tntPowerController": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:commandGetClientPlayerFps": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scriptsAutoload": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:commandRaycast": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:perfPermissionLevel": {
+      "value": "4",
+      "isDefault": false
+    },
+    "carpet:simulationDistance": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:commandInfo": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:extinguishedCampfire": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:climbingBoat": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:ironGolemSpawningOptimization": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tntDoNotUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:meekEnderman": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:sneakToEatCake": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeOpenContainerForcibly": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fixMiningFatigue": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:playerCommandSummonMannequin": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:foliageGenerateDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:NSEEUpdateSuppressorThresholds": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:disableAmethystGrowth": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandPlayer": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:commandRemoveEntity": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:canActivatesObserver": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:jebSheepDropRandomColorWool": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:waterFluidTickDelay": {
+      "value": "5",
+      "isDefault": false
+    },
+    "carpet:unrestrictedPlacingBlock": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeShulkerBoxDropsDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:turtleEggFastMine": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:hightLightItem": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:noteBlockChunkLoader": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:itemEntitySkipMovementDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:forceloadLimit": {
+      "value": "256",
+      "isDefault": false
+    },
+    "carpet:copperGolemFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:bambooCollisionBoxDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:pre21ThrowableEntityMovement": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tickWarpCommandAsAnAlias": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:openFakePlayerEnderChest": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:updateSkippingSimulator": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerHeal": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:instantFireBlock": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:simpleUpdateSkipper": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:kirinArm": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:speedTestCommandMaxTestSize": {
+      "value": "10",
+      "isDefault": false
+    },
+    "carpet:commandpetOwnerTransfer": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:safeScaffoldingBreak": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:noAnimalGenerationInNewChunks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandScript": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:chainUpdateLoggerThresholds": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:synchronizedLightThread": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:quasiConnectivity": {
+      "value": "1",
+      "isDefault": false
+    },
+    "carpet:websiteLoginCooldownSeconds": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:carpetCommandPermissionLevel": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:blockentityreplacement": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:removeTooExpensiveLimit": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:opPlayerNoCheatExtra": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tntIgnoreRedstoneSignal": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scheduledRandomTickPlants": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:bambooModelNoOffset": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:gameTickOptimization": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:villagerVoidTrading": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandScriptACE": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:damageEnchantmentCompatible": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:betterQuickCrafting": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:enchantCommandNoRestriction": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scheduledRandomTickCactus": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:sneakInvisibility": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandTodo": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:fakePlayerAutoReplenishmentFormShulkerBox": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:voidRelatedAltitude": {
+      "value": "-64.0",
+      "isDefault": false
+    },
+    "carpet:thickFungusGrowth": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:quickVillagerLevelUp": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:openGameRulePermission": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tntRandomRange": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:netherWaterPlacement": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:entityTrackerDistance": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:fakePlayerRemoteSpawning": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:dispenserBarteringName": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:pointedDripstoneCollisionBoxDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandBotAction": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:elytraRecipe": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:redstoneDustRepeaterComparatorIgnoreUpwardsStateUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fastPingFriend": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:maxChainUpdateDepth": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:softDeepslate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scheduledRandomTickChorusFlower": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:movableAmethyst": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandCreeper": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandLMSSelf": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:commandSpectator": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:commandManipulate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:mitePearl": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:onlyOpCanSpawnRealPlayerInWhitelist": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:scheduledRandomTickAllPlants": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lavaFluidTickDelay": {
+      "value": "30",
+      "isDefault": false
+    },
+    "carpet:totallyNoBlockUpdate": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerInteractLikeClient": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableItemCreatePortal": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:amsUpdateSuppressionCrashFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:getItemMaxBots": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:tickFreezeCommandToggleable": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:microTimingTarget": {
+      "value": "marker_only",
+      "isDefault": false
+    },
+    "carpet:notDamageEnderPearl": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:missingTools": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:pointedDripstoneBlockCanBeRipening": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerKeepInventory": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:getItemBotPrefix": {
+      "value": "bot_getitem_",
+      "isDefault": false
+    },
+    "carpet:pearlIgnoreEntityCollision": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerNamePrefix": {
+      "value": "#none",
+      "isDefault": false
+    },
+    "carpet:spawnLeaderZombieProbably": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:noFamilyPlanning": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:superLeash": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:sneakToEditSign": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:nameTagDuplicateNamingFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerReloadAction": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:mergeTNTMax": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandKillMe": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:betterSignInteraction": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:minecartFullDropBackport": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:moreReasonableRails": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:sandDupingFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:entityChunkSectionIndexXOverflowFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:customMOTD": {
+      "value": "_",
+      "isDefault": false
+    },
+    "carpet:itemFrameInvisible": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:forcefullyGenerateOfflineFakePlayer": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:easyWaterloggedBlockPlacement": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:shulkerDupNearbyLimit": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:entityPlacementIgnoreCollision": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tickCommandPermission": {
+      "value": "3",
+      "isDefault": false
+    },
+    "carpet:scheduledRandomTickSugarCane": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:moreBlueSkulls": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:spongeRecipe": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:openCarpetPermission": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:creativeImmuneKill": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:removePalettedContainerLock": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandMail": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:beaconWorldHeight": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:limitPhantomSpawn": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:cryingObsidianNetherPortal": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tntPrimerMomentumRemoved": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:playerDropHead": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:instantDispenserAndDropper": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:liquidDamageDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:blockDropsDirectlyEnterInventory": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandnoEndGatewayTicket": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:fakePlayerAutoFish": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:rotatorBlock": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableIllegalTextCharacterCheck": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:mergeTNTFuseThreshold": {
+      "value": "60",
+      "isDefault": false
+    },
+    "carpet:enhancedWorldEater": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:maxPlayerBlockInteractionRange": {
+      "value": "-1.0",
+      "isDefault": false
+    },
+    "carpet:unbreakableBuddingAmethyst": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:optimizedHardHitBoxEntityCollision": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:stringDupeReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:cakeBlockDropOnBreak": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:yeetAsyncTaskExecutionDelay": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:repairTheMonsterAI": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:easyRefreshTrades": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandCustomBlockHardness": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:playerCommandOpenPlayerInventoryGcaStyle": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:commandCarpetExtensionModWikiHyperlink": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:portableInfiniteWater": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:yeetUpdateSuppressionCrash": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:dispenserSpearCharge": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:entityTrackerInterval": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:soundSuppressionSimulator": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:openSeedPermission": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandTick": {
+      "value": "3",
+      "isDefault": false
+    },
+    "carpet:commandPacketInternetGroper": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fullMoonEveryDay": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:blockEventPacketRange": {
+      "value": "64.0",
+      "isDefault": false
+    },
+    "carpet:itemShadowing": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:entityTeleportCrossDimension": {
+      "value": "origin",
+      "isDefault": false
+    },
+    "carpet:endstonefram": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:endPortalChunkLoadDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:gazeDisguiseEquipmentExtended": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:wanderingTraderSpawnFailedWarning": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:softOres": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:cactusWrenchSound": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fogOff": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandStorageWebsite": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerPrefixName": {
+      "value": "#none",
+      "isDefault": false
+    },
+    "carpet:tileTickLimit": {
+      "value": "65536",
+      "isDefault": false
+    },
+    "carpet:openVillagerInventory": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:visualizeProjectileLoggerEnabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerKeepInventoryCondition": {
+      "value": "unconditional",
+      "isDefault": false
+    },
+    "carpet:shulkerHitLevitationDisabled": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:cleanLogs": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:chunkCommandLevel": {
+      "value": "4",
+      "isDefault": false
+    },
+    "carpet:fillUpdates": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:lightSuppressionCanAlsoLoadClocks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:ComparatorIgnoresStateUpdatesFromBelow": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:renewableCoral": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:loggerMovement": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:immuneShulkerBullet": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:pistonBlockChunkloader": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:craftableElytra": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:oakBalloonPercent": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:persistentLoggerSubscription": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:betterCraftableDispenser": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandGetSystemInfo": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fragileTrialSpawner": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandGoto": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:wardenNotHostileToPlayers": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:zombifiedPiglinSpawnFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:displayPlayerSummoner": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:softNetherite": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:failSoftBlockStateParsing": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:lightUpdates": {
+      "value": "on",
+      "isDefault": false
+    },
+    "carpet:sensibleEnderman": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:disableRespawnBlocksExplode": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:ultraSecretSetting": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:maxPlayerEntityInteractionRangeScope": {
+      "value": "server",
+      "isDefault": false
+    },
+    "carpet:placementRotationFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:largeEnderChest": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:teleportToPoiWithoutPortals": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:flippinCactusExtras": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:allowListingFakePlayers": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerTicksLikeRealPlayer": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:voidDamageIgnorePlayer": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:xpNoCooldown": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:blockChunkLoaderTimeController": {
+      "value": "300",
+      "isDefault": false
+    },
+    "carpet:vaultMaxBlacklistSize": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "carpet:openRealPlayerInventory": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:xpTrackingDistance": {
+      "value": "8.0",
+      "isDefault": false
+    },
+    "carpet:allowTripwirePlatformDeletion": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:dispenserNoItemCost": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fastRedstoneDust": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:phantomSpawnAlert": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:customizedNetherPortal": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:amsNetworkProtocol": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:microTimingDyeMarker": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:commandKillItem": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:forceOpenContainer": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:safePointedDripstone": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:zombifiedPiglinDropLootIfAngryReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:desertShrubs": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:botTabListNamePrefix": {
+      "value": "#none",
+      "isDefault": false
+    },
+    "carpet:maxBlockPlaceDistanceReferToEntity": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:enderDragonNoDestroyBlock": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:softVault": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:violentNetherPortalCreation": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:ironGolemNoDropFlower": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:infiniteTrades": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:structureBlockIgnored": {
+      "value": "minecraft:structure_void",
+      "isDefault": false
+    },
+    "carpet:largeBundle": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:shulkerBoxCCEReintroduced": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:maxBlockPlaceDistanceSyncClient": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:hopperXpCounters": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:tripwireScheduleTickFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerSpawnMemoryLeakFix": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:chatMessageLengthLimitUnlocked": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandDraw": {
+      "value": "ops",
+      "isDefault": false
+    },
+    "carpet:suppressionMismatchInDestroyBlockPosWarn": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fixedpearlloading": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:fakePlayerLocatorBar": {
+      "value": "true",
+      "isDefault": false
+    },
+    "carpet:wanderingTraderNoDisappear": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:craftableCarvedPumpkin": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:betterFenceGatePlacement": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:blueSkullController": {
+      "value": "vanilla",
+      "isDefault": false
+    },
+    "carpet:scheduledRandomTickBamboo": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:commandSpeedTest": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:deobfuscateCrashReportStackTrace": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:snowMeltMinLightLevel": {
+      "value": "12",
+      "isDefault": false
+    },
+    "carpet:commandAmspDebug": {
+      "value": "false",
+      "isDefault": false
+    },
+    "carpet:projectileRaycastLength": {
+      "value": "0",
+      "isDefault": false
+    },
+    "carpet:qnmdLC": {
+      "value": "-1",
+      "isDefault": false
+    },
+    "cca:StackableShulkerBoxesEnhancement": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:AnvilCanCrushItemEntities": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:ReIntroduceOldVersionRaid": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:NoBatSpawn": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:ShulkerBoxPowerOutputExpansion": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:EndermanCannotPickUpBlocksInNether": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:EnderDragonPartCanUseEndPortal": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:RemoveVillagerTradeDistanceLimit": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:NoMushroomRandomTickInNether": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:ItemShadowing": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:RemoveHighSpeedPearls": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:ReIntroduceOldVersionWitchLootTable": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:RemoveHighSpeedPearlsTime": {
+      "value": "40",
+      "isDefault": false
+    },
+    "cca:GatewayCannotLoadingChunks": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:ComparatorIgnoresStateUpdatesFromBelow": {
+      "value": "false",
+      "isDefault": false
+    },
+    "cca:ShulkerBoxPowerOutputExpansionColour": {
+      "value": "pink",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:max_entity_cramming": {
+      "value": "24",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:global_sound_events": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:chat]:send_command_feedback": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:keep_inventory": {
+      "value": "false",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:chat]:command_block_output": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:fall_damage": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:drops]:block_explosion_drop_decay": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_wandering_traders": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:drops]:tnt_explosion_drop_decay": {
+      "value": "false",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:universal_anger": {
+      "value": "false",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:drops]:projectiles_can_break_blocks": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:max_block_modifications": {
+      "value": "32768",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_patrols": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_phantoms": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:updates]:advance_time": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:raids": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:elytra_movement_check": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:max_minecart_speed": {
+      "value": "8",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:drops]:entity_drops": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:fire_damage": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:max_command_forks": {
+      "value": "65536",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:tnt_explodes": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:updates]:spread_vines": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:mob_griefing": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:limited_crafting": {
+      "value": "false",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:reduced_debug_info": {
+      "value": "false",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:updates]:water_source_conversion": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:drops]:block_drops": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:updates]:fire_spread_radius_around_player": {
+      "value": "128",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:allow_entering_nether_using_portals": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:forgive_dead_players": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:updates]:random_tick_speed": {
+      "value": "3",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:chat]:log_admin_commands": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:updates]:lava_source_conversion": {
+      "value": "false",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:player_movement_check": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:immediate_respawn": {
+      "value": "false",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:locator_bar": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_monsters": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:updates]:max_snow_accumulation_height": {
+      "value": "1",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:ender_pearls_vanish_on_death": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_wardens": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:players_sleeping_percentage": {
+      "value": "100",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:drowning_damage": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:max_command_sequence_length": {
+      "value": "65536",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:drops]:mob_drops": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:chat]:show_advancement_messages": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:jade:max_position_deviation": {
+      "value": "21",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:spectators_generate_chunks": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:command_blocks_work": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:updates]:advance_weather": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:drops]:mob_explosion_drop_decay": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:freeze_damage": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_mobs": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:respawn_radius": {
+      "value": "10",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:misc]:spawner_blocks_work": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:players_nether_portal_default_delay": {
+      "value": "80",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:natural_health_regeneration": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:players_nether_portal_creative_delay": {
+      "value": "0",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:player]:pvp": {
+      "value": "true",
+      "isDefault": false
+    },
+    "gamerule$GameRuleCategory[id\u003dminecraft:chat]:show_death_messages": {
+      "value": "true",
+      "isDefault": false
+    }
+  },
+  "prefabs": [
+    {
+      "name": "default",
+      "createdAt": 1792250682549,
+      "counter": 0,
+      "baseline": {
+        "carpet:customizeTheArrowOwner": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:redstoneComponentSound": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:soundSuppressionSimulator": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:allowListingFakePlayers": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fancyFakePlayerName": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:entityInstantDeathRemoval": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:AnvilCanCrushItemEntities": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:chunkPopulationCanAffectLoadedChunks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:playerCommandOpenPlayerInventoryOption": {
+          "value": "fake_player",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:updates]:advance_time": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:dispenserCollectXp": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:global_sound_events": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:repeaterHalfDelay": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:playerCommandOpenPlayerInventoryGcaStyle": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:disableFakePlayerCollision": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandSpectator": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:chainStone": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:pearlnotloadingchunk": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:easyWaterloggedBlockPlacement": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:chunkTickSpeed": {
+          "value": "1",
+          "isDefault": false
+        },
+        "carpet:synchronizedLightThread": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:blockPlacementIgnoreEntity": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:noteBlockChunkLoader": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:enchantedGoldenAppleRecipe": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:StackableShulkerBoxesEnhancement": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scheduledRandomTickStem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:woolSuppressesSculkSpread": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_mobs": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:drops]:tnt_explosion_drop_decay": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:violentNetherPortalCreation": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:villagerInfiniteTrade": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:pointedDripstoneBlockCanBeRipening": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:defaultLoggers": {
+          "value": "none",
+          "isDefault": false
+        },
+        "carpet:flippinCactus": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:rustingCopperManually": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerAutoReplenishment": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:mergeTNTFuseThreshold": {
+          "value": "60",
+          "isDefault": false
+        },
+        "carpet:clientSettingsLostOnRespawnFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:summonNaturalLightning": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:foliageGenerateDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:updates]:lava_source_conversion": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tntIgnoreRedstoneSignal": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:openGameRulePermission": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:getItemBotPrefix": {
+          "value": "bot_getitem_",
+          "isDefault": false
+        },
+        "carpet:villagerHeal": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:stopCommandDoubleConfirmation": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerNamePrefix": {
+          "value": "#none",
+          "isDefault": false
+        },
+        "carpet:healthNotFullCanEat": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fertilizableSmallFlower": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disableItemCreatePortal": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:creativeImmuneKill": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:chestMinecartChunkLoader": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:playerManagerForceComment": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:turtleEggFastMine": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:piglinTradeInstantly": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:farmlandTrampledDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:snowMeltMinLightLevel": {
+          "value": "12",
+          "isDefault": false
+        },
+        "carpet:commandpetOwnerTransfer": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tntPrimerMomentumRemoved": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandAmspDebug": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerActionKeepItem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:players_sleeping_percentage": {
+          "value": "100",
+          "isDefault": false
+        },
+        "carpet:fakePlayerAutoFish": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:easyWitherSkeletonSkullDrop": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:undeadDontBurnInSunlight": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:undyingCoral": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandScript": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:softOres": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:optimizedHardHitBoxEntityCollision": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandLMSOthers": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:playerDropsNotDespawning": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:noAnimalGenerationInNewChunks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandBotAction": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:noFamilyPlanning": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:moveableReinforcedDeepslate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:largeShulkerBox": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandSpawn": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:setAnvilExperienceConsumptionLimit": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:fakePlayerTicksLikeRealPlayer": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:kirinArm": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:superZombieDoctor": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:openFakePlayerEnderChest": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:lowHealthSpectatorThreshold": {
+          "value": "5.0",
+          "isDefault": false
+        },
+        "carpet:disableMobPeacefulDespawn": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:chatMessageLengthLimitUnlocked": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:nameTagDuplicateNamingFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandStorageWebsite": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:extinguishedCampfire": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandnoEndGatewayTicket": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:syncServerMsptMetricsData": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandClearPearTrail": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:maxClientInteractionReachDistance": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:fakePlayerForceOfflineUUID": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disableCreativeContainerDrops": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandScriptACE": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:superLeash": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:peacefulCreeper": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:noCreativePickupWhenFull": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:reduced_debug_info": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:wardenNotHostileToPlayers": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxLinesPerPage": {
+          "value": "10",
+          "isDefault": false
+        },
+        "carpet:disableAiGoals": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:dispensersFireDragonBreath": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:crafterStopsWhenOutputBlocked": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:entityTrackerDistance": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:disableRespawnBlocksExplode": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:softObsidian": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:redstoneDustRepeaterComparatorIgnoreUpwardsStateUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxBlockPlaceDistance": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:noSensationPearlLoad": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:explosionPacketRange": {
+          "value": "64.0",
+          "isDefault": false
+        },
+        "carpet:wanderingTraderSpawnRemind": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:simpleChunkDupe": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandCustomCommandPermissionLevel": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:betterFenceGatePlacement": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:totallyNoBlockUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:turtleEggTrampledDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:cleanLogs": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:shulkerSpawningInEndCities": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerNoScoreboardCounter": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:RemoveHighSpeedPearls": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:shulkerGolem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:shulkerBoxCCEReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:quasiConnectivity": {
+          "value": "1",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:drops]:entity_drops": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:commandItemShadowing": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:persistentLoggerSubscription": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:structureBlockLimit": {
+          "value": "48",
+          "isDefault": false
+        },
+        "carpet:mobsSpawnWithoutSpears": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:voidDamageIgnorePlayer": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxBlockPlaceDistanceReferToEntity": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:creativeFlySpeed": {
+          "value": "1.0",
+          "isDefault": false
+        },
+        "carpet:commandTodo": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:spongeRecipe": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scaffoldingBlockCanBeRipening": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:microTiming": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:flippinTotem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:customEndPlatformPosition": {
+          "value": "vanilla",
+          "isDefault": false
+        },
+        "carpet:endstonefram": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:modifiableEndGatewayCooldown": {
+          "value": "40",
+          "isDefault": false
+        },
+        "carpet:sneakInvisibility": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:HUDLoggerUpdateInterval": {
+          "value": "20",
+          "isDefault": false
+        },
+        "carpet:netherWaterPlacement": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:farmlandPreventStepping": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:pushLimit": {
+          "value": "12",
+          "isDefault": false
+        },
+        "carpet:climbingBoat": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerResident": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandInfo": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:perfectInvisibility": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:lightingUpdateSkipsThresholds": {
+          "value": "250",
+          "isDefault": false
+        },
+        "carpet:quickSettingFakePlayerCraft": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:pistonBreakingBlockProducesUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:creativeOpenContainerForcibly": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:portableInfiniteWater": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:unbreakableBuddingAmethyst": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:easyCompost": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:entityTrackerInterval": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:endermanTeleportRandomlyDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:channelingIgnoreConditions": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:meekEnderman": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:rottenFleshBurnedIntoLeather": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fragileVault": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerPickUpController": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandFinder": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:optimizedTNT": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:ultraSecretSetting": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:silkTouchFrostedIce": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:viewDistance": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:commandLifeTime": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:largeEnderChest": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:structureBlockDoNotPreserveFluid": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fragileTrialSpawner": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:microTimingTickDivision": {
+          "value": "world_timer",
+          "isDefault": false
+        },
+        "carpet:amsUpdateSuppressionCrashFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandPerimeterInfo": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:quickVillagerLevelUp": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandDistance": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:fakePlayerDefaultSurvivalMode": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandManipulate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:immuneShulkerBullet": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scriptsAppStore": {
+          "value": "gnembon/scarpet/contents/programs",
+          "isDefault": false
+        },
+        "carpet:thickFungusGrowth": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disableNyliumDecay": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:entityPathNavigationStuckDetectionUseRealTimeReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandPlayerManager": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:spawnBabyProbably": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:protectionEnchantmentCompatible": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:forgive_dead_players": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:max_command_sequence_length": {
+          "value": "65536",
+          "isDefault": false
+        },
+        "carpet:forceloadLimit": {
+          "value": "256",
+          "isDefault": false
+        },
+        "carpet:itemFrameFixed": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:furnaceSmeltingTimeController": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:hopperCounters": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:infinitelyTotem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandTrackAI": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:jade:max_position_deviation": {
+          "value": "21",
+          "isDefault": false
+        },
+        "carpet:fakePlayerHeal": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_phantoms": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:hightLightLivingEntity": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:villagerVoidTrading": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandSetPassword": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:ReIntroduceOldVersionRaid": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:invulnerable": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:hangingEntitiesDropInstantly": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:gameTickOptimization": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:creativeShulkerBoxDropsDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:forceOpenContainer": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:suppressionMismatchInDestroyBlockPosWarn": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:getItemDelayMs": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:safeScaffoldingBreak": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:preventAdministratorCheat": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandRefresh": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:dispenserBarteringName": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandGetHeldItemID": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:updates]:max_snow_accumulation_height": {
+          "value": "1",
+          "isDefault": false
+        },
+        "carpet:allayHealInterval": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:soundSuppressionRadius": {
+          "value": "16",
+          "isDefault": false
+        },
+        "carpet:tntDoNotUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:pearlNoTp": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:easyGetPitcherPod": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:elytraRecipe": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scheduledRandomTickSugarCane": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:updates]:random_tick_speed": {
+          "value": "3",
+          "isDefault": false
+        },
+        "carpet:craftableDragonBreath": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:updateSuppressionSimulator": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:instantBlockUpdaterReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:chunkUpdatePacketThreshold": {
+          "value": "64",
+          "isDefault": false
+        },
+        "carpet:largeBundle": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:witchRedstoneDustDropController": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:creativeNetherWaterPlacement": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:updates]:spread_vines": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:namedWanderingTraderPersistence": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tntPowerController": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:reintroduceOlderShulkerBullet": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerMaxItemOperationCount": {
+          "value": "3",
+          "isDefault": false
+        },
+        "carpet:commandAnvilInteractionDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandKillItem": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:openTpPermission": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:endermanPickUpDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disableIllegalTextCharacterCheck": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerNameSuffix": {
+          "value": "#none",
+          "isDefault": false
+        },
+        "carpet:noEnchantmentLevelLimit": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:iceLikeMagmaBlocks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:creativeFlyDrag": {
+          "value": "0.09",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_wardens": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:getStorageDataCooldownSeconds": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:betterItemFrameInteraction": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:blockDropsDirectlyEnterInventory": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tickCommandCarpetfied": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandPlayerNoNetherPortalTeleport": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerAutoReplaceTool": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:voidRelatedAltitude": {
+          "value": "-64.0",
+          "isDefault": false
+        },
+        "carpet:commandWhereis": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:craftableElytra": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:teleportToPoiWithoutPortals": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:minecartPlaceableOnGround": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disableOpenOrWaterDetection": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:flattenTriangularDistribution": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerReloadAction": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:commandSetPlayerPose": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:reintroduceOlderPathfinding": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandCreeper": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:cancelZombifiedPiglinsBreakEgg": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:globalSlimeChunk": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:keep_inventory": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:flushFakePlayerNetworkQueue": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:sneakToEditSign": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:jebSheepDropRandomColorWool": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:CCEUpdateSuppression": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fragileBlocks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:observerNoDetection": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandLoc": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:optimizedFastEntityMovement": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:NoMushroomRandomTickInNether": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandLog": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:disableKelpNaturalGrowth": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:updateSuppressionBlock": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:commandLMSSelf": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:fakePlayerKeepInventoryCondition": {
+          "value": "unconditional",
+          "isDefault": false
+        },
+        "carpet:visualizeProjectileLoggerEnabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:betterCraftableBoneBlock": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tileTickLimit": {
+          "value": "65536",
+          "isDefault": false
+        },
+        "carpet:fireworkRocketUseCooldown": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:playerCommandSummonMannequin": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:unrestrictedPlacingBlock": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:chat]:command_block_output": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:natural_health_regeneration": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:commandBotController": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:simpleInGameCalculator": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:entityPlacementIgnoreCollision": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:craftableCoralBlocks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:fire_damage": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:disableAirborneMiningPenalty": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tickWarpCommandAsAnAlias": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:blowUpEverything": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:openRealPlayerInventory": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:max_block_modifications": {
+          "value": "32768",
+          "isDefault": false
+        },
+        "carpet:noCakeEating": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:breedableParrots": {
+          "value": "none",
+          "isDefault": false
+        },
+        "carpet:voidDamageAmount": {
+          "value": "4.0",
+          "isDefault": false
+        },
+        "carpet:commandBlist": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:enhancedWorldEater": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:commandTick": {
+          "value": "3",
+          "isDefault": false
+        },
+        "carpet:movableBlockEntities": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:keepMobInLazyChunks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:simulationDistance": {
+          "value": "0",
+          "isDefault": false
+        },
+        "cca:EndermanCannotPickUpBlocksInNether": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:ItemShadowing": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:beaconIgnoresObstruction": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandGoto": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:vaultBlacklistDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:structureBlockOutlineDistance": {
+          "value": "96",
+          "isDefault": false
+        },
+        "carpet:commandPlayerLeader": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:deobfuscateCrashReportStackTrace": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:turtleEggFastHatch": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disableAIEntitities": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:RemoveVillagerTradeDistanceLimit": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fillUpdates": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:updates]:fire_spread_radius_around_player": {
+          "value": "128",
+          "isDefault": false
+        },
+        "carpet:fixLecternStateUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandDraw": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:max_command_forks": {
+          "value": "65536",
+          "isDefault": false
+        },
+        "carpet:commandCustomMovableBlock": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:experimentalMinecartEnabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:instantScheduling": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerKeepInventory": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:recordPlayerCommand": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:ironGolemSpawningOptimization": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_patrols": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:bellBlockChunkLoader": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:naturalSpawningUse13Heightmap": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fasterMovementController": {
+          "value": "all",
+          "isDefault": false
+        },
+        "carpet:creativeHitRemoveEntity": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tickFreezeCommandToggleable": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:hopperCountersUnlimitedSpeed": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scheduledRandomTickCactus": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:antiSpamDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandGetItem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandMail": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:rightClickBlockUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:antiCheatDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerIgnoreThornsDamage": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:blockentityreplacement": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandTransfer": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandSleep": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:botTabListNameSuffix": {
+          "value": "#none",
+          "isDefault": false
+        },
+        "carpet:mergeTNTPro": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fillCommandModeEnhance": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:projectileRaycastLength": {
+          "value": "0",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:chat]:show_advancement_messages": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:opInSurvivalCommandBlocks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:endPortalOpenedSoundDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerUseOfflinePlayerUUID": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:pvp": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:explosionNoEntityInfluence": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:easyMineDragonEgg": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:pistonBlockChunkLoader": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:minecartFullDropBackport": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxPlayerBlockInteractionRange": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:scriptsDebugging": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scriptsOptimization": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:commandProfile": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:machineStatusRollbackWarning": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:onlyPlayerCanCreateNetherPortal": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:creativeNoClip": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:playerCommandTeleportFakePlayer": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:explosionNoBlockDamage": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:softNetherite": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:speedTestCommandMaxTestSize": {
+          "value": "10",
+          "isDefault": false
+        },
+        "carpet:forcefullyGenerateOfflineFakePlayer": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disableBatCanSpawn": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:blockEntitySwapReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:reintroduceDolphinPortalItemDupe": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:creativeOneHitKill": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:RemoveHighSpeedPearlsTime": {
+          "value": "40",
+          "isDefault": false
+        },
+        "carpet:commandCustomBlockBlastResistance": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxPlayerEntityInteractionRangeScope": {
+          "value": "server",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:universal_anger": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:huskSpawningInTemples": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:softTrialSpawner": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fasterMovement": {
+          "value": "vanilla",
+          "isDefault": false
+        },
+        "carpet:simpleUpdateSkipper": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tripwireScheduleTickFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:yeetIdleMspt": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:sculkSensorRange": {
+          "value": "8",
+          "isDefault": false
+        },
+        "carpet:disableWaterFreezes": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:welcomePlayer": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:sandDupingFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:neutralPhantoms": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:dispenserSpearCharge": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:voidTrading": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerSpawnMemoryLeakFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:missingTools": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:creativePlayersLoadChunks": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:stridergodie": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:canMineSpawner": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxBlockPlaceDistanceSyncClient": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:maxUpdateDepth": {
+          "value": "512",
+          "isDefault": false
+        },
+        "carpet:itemEntitySkipMovementDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandSpeedTest": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:hopperSuctionDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tickProfilerCommandsReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:superSecretSetting": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:sneakToEatCake": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:ShulkerBoxPowerOutputExpansionColour": {
+          "value": "pink",
+          "isDefault": false
+        },
+        "carpet:cakeBlockDropOnBreak": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:dustTrapdoorReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:waterFluidTickDelay": {
+          "value": "5",
+          "isDefault": false
+        },
+        "carpet:bambooModelNoOffset": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandRemoveEntity": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:entityHighLight": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:superBow": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tickCommandEnhance": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:lightningKillsDropsFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:spawner_blocks_work": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:hightLightItem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:hopperXpCounters": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:zombifiedPiglinSpawnFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:optimizedDragonRespawn": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:lavaFluidTickDelay": {
+          "value": "30",
+          "isDefault": false
+        },
+        "carpet:staringEndermanNotAngry": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:knockbackStick": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandPacketInternetGroper": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:durableItemShadow": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:creativeNoItemCooldown": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:poiUpdates": {
+          "value": "true",
+          "isDefault": false
+        },
+        "cca:EnderDragonPartCanUseEndPortal": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:reusableSmithingTemplate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxPlayerEntityInteractionRange": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:SignCommand": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:lightQueueLoggerSamplingDuration": {
+          "value": "60",
+          "isDefault": false
+        },
+        "carpet:pointedDripstoneCollisionBoxDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:entityBrainMemoryUnfreedFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:shulkerBoxFurnace": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:rotatorBlock": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:lifeTimeTrackerConsidersMobcap": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:placementRotationFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:bedrockCanBeMined": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:blockChunkLoaderTimeController": {
+          "value": "300",
+          "isDefault": false
+        },
+        "carpet:hardcodeTNTangle": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:disablePlayerAttackingTamedMobs": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:renewableBlackstone": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandNavigate": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:spawnLeaderZombieProbably": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:player_movement_check": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:freeze_damage": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:lowHealthSpectatorMethod": {
+          "value": "vanilla",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:spectators_generate_chunks": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:preciseEntityPlacement": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:websiteLoginCooldownSeconds": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:fakePlayerRemoteSpawning": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:drops]:block_explosion_drop_decay": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:chat]:log_admin_commands": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:chainUpdateLoggerThresholds": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:toughWitherRose": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:removePalettedContainerLock": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxChainUpdateDepth": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:wanderingTraderNoDisappear": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:gcaPageSize": {
+          "value": "8",
+          "isDefault": false
+        },
+        "carpet:tntDupingFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:liquidDamageDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandCleanGetItemBot": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:cactusWrenchSound": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:itemFrameInvisible": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:flippinCactusSoundEffect": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:creativeInstantTame": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:pistonBlockChunkloader": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:ender_pearls_vanish_on_death": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:drowning_damage": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:useItemCooldownDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:infiniteTrades": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:recordWorldEventFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:dispenserNoItemCost": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:max_minecart_speed": {
+          "value": "8",
+          "isDefault": false
+        },
+        "carpet:redstoneDustRandomUpdateOrder": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:beaconRangeExpand": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:commandMachineStatus": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:fastPingFriend": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:betterTotemOfUndying": {
+          "value": "vanilla",
+          "isDefault": false
+        },
+        "carpet:renewableSponges": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:pingPlayerListLimit": {
+          "value": "12",
+          "isDefault": false
+        },
+        "carpet:smoothClientAnimations": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:lowHealthSpectator": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:structureBlockIgnored": {
+          "value": "minecraft:structure_void",
+          "isDefault": false
+        },
+        "carpet:amsTranslationMode": {
+          "value": "client",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:mob_griefing": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:playerCanSit": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:beaconProperToolFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:customizedNetherPortal": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:removeTooExpensiveLimit": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:lagFreeSpawning": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:spongeCanBeDriedNaturally": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:elytraFireworkKeepLeashConnection": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:netherPortalMaxSize": {
+          "value": "21",
+          "isDefault": false
+        },
+        "carpet:allowSpawningOfflinePlayers": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:drops]:mob_drops": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:openSeedPermission": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:allow_entering_nether_using_portals": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:blueSkullController": {
+          "value": "vanilla",
+          "isDefault": false
+        },
+        "carpet:commandPlayerActionPerTick": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandRuleSearch": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:commandLocations": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:revertZombieFeatures": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:betterPiglinAI": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandCustomBlockHardness": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:infinitelyVault": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:betterCraftableDispenser": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:entityMomentumLoss": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:tickFreezeDeepCommand": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:regeneratingDragonEgg": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:opPlayerNoCheat": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:openFakePlayerInventory": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:persistentParrots": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandPlayer": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:craftableCarvedPumpkin": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:riptideIgnoreConditions": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandsetnoisesuppressor": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:respawn_radius": {
+          "value": "10",
+          "isDefault": false
+        },
+        "carpet:manipulateBlockLimit": {
+          "value": "1000000",
+          "isDefault": false
+        },
+        "carpet:moreBlueSkulls": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:raids": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:unloadedEntitiesDoNotAffectLoadedChunk": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:perfPermissionLevel": {
+          "value": "4",
+          "isDefault": false
+        },
+        "carpet:yeetAsyncTaskExecutionDelay": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:pre21ThrowableEntityMovement": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:instantFireBlock": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerAutoRespawn": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:wetExplosionReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:xpTrackingDistance": {
+          "value": "8.0",
+          "isDefault": false
+        },
+        "carpet:commandLMSBot": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:fakePlayerAutoReplenishmentFormShulkerBox": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:itemShadowing": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:spawnJockeyProbably": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:blockChunkLoaderRangeController": {
+          "value": "3",
+          "isDefault": false
+        },
+        "carpet:commandKillMe": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:headHunter": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:renewableNetheriteScrap": {
+          "value": "0.0",
+          "isDefault": false
+        },
+        "carpet:witchGlowstoneDustDropController": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:websiteGetItem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:carpets": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:placeableNetherPortal": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandAtSomeOnePlayer": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandXpTransfer": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "cca:GatewayCannotLoadingChunks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:keepWorldTickUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:repairTheMonsterAI": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:leaderZombieSpawnWithMaxHealthDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:minecartTakePassengerMinVelocity": {
+          "value": "0.1",
+          "isDefault": false
+        },
+        "carpet:softVault": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:renewableElytra": {
+          "value": "0.0",
+          "isDefault": false
+        },
+        "carpet:failSoftBlockStateParsing": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scheduledRandomTickBamboo": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:entityIdCounterLoggerSamplingDuration": {
+          "value": "100",
+          "isDefault": false
+        },
+        "carpet:hopperNoItemCost": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:removedThreadChecks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:softDeepslate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandWlist": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:amsNetworkProtocol": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:locator_bar": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:craftableEnchantedGoldenApples": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:phantomSpawnWarning": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:xpFromExplosions": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:explosionProofBuddingAmethyst": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:lowHealthSpectatorCooldown": {
+          "value": "200",
+          "isDefault": false
+        },
+        "carpet:piglinsSpawningInBastions": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:language": {
+          "value": "en_us",
+          "isDefault": false
+        },
+        "carpet:commandSeed": {
+          "value": "vanilla",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_monsters": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:superChargedCreeper": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fullMoonEveryDay": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:welcomeMessage": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:flippinCactusExtras": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:elytra_movement_check": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:opPlayerNoCheatExtra": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:customMOTD": {
+          "value": "_",
+          "isDefault": false
+        },
+        "carpet:entityTeleportCrossDimension": {
+          "value": "origin",
+          "isDefault": false
+        },
+        "carpet:itemAntiExplosion": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerSpawnNoKnockback": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:reintroduceLlamaItemDuplicating": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scheduledRandomTickChorusFlower": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandPlayerChunkLoadController": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:NSEEUpdateSuppressorThresholds": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:vaultMaxBlacklistSize": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:stringDupeReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxEntityCollisions": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:getItemCooldownSeconds": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:maxPlayerBlockInteractionRangeScope": {
+          "value": "server",
+          "isDefault": false
+        },
+        "carpet:getItemMaxCount": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:lightSuppressionCanAlsoLoadClocks": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:renewableDragonEgg": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:blockDyeing": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:canActivatesObserver": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:bindingCurseInvalidation": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandCustomAntiFireItems": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:loggerMovement": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:infiniteDurability": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:microTimingDyeMarker": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:mergeTNTMax": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandHere": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:endPortalChunkLoadDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:wanderingTraderSpawnFailedWarning": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:chat]:show_death_messages": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:updateSkippingSimulator": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandGetStorageData": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:NoBatSpawn": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:stackableShulkerBoxes": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandWhere": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandSop": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandGetClientPlayerFps": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:debugNbtQueryNoPermission": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:openPlayerInventory": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:frostedIceProperToolFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:customBlockUpdateSuppressor": {
+          "value": "none",
+          "isDefault": false
+        },
+        "carpet:carpetAlwaysSetDefault": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:preventEndSpikeRespawn": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:copperGolemFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:blockChunkLoaderKeepWorldTickUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:microTimingTarget": {
+          "value": "marker_only",
+          "isDefault": false
+        },
+        "carpet:bambooCollisionBoxDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fastRedstoneDust": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:PortalPearlWarp": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:betterCraftablePolishedBlackStoneButton": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scheduledRandomTickAllPlants": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:allowTripwirePlatformDeletion": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:easyMaxLevelBeacon": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerSuffixName": {
+          "value": "#none",
+          "isDefault": false
+        },
+        "carpet:renewableCoral": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:qnmdLC": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:notDamageEnderPearl": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:breedingCooldownDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:spawnersIgnoreInvisiblePlayers": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:silkTouchBuddingAmethyst": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disableAmethystGrowth": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:immediate_respawn": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:desertShrubs": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:dispenserCollectCauldron": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:interactionUpdates": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:experimentalMinecartSpeed": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:playerCommandDropall": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:entityChunkSectionIndexXOverflowFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:stackableDiscounts": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:chat]:send_command_feedback": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:tnt_explodes": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:sendPlayerDeathLocation": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:enderDragonNoDestroyBlock": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:limitPhantomSpawn": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:drops]:mob_explosion_drop_decay": {
+          "value": "true",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:spawning]:spawn_wandering_traders": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:instantCommandBlock": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:ComparatorIgnoresStateUpdatesFromBelow": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:mobcapsDisplayIgnoreMisc": {
+          "value": "false",
+          "isDefault": false
+        },
+        "cca:ReIntroduceOldVersionWitchLootTable": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:preventServerPause": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tiscmNetworkProtocol": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:customPiglinBarteringTime": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "carpet:moreReasonableRails": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:ironGolemNoDropFlower": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandGetSaveSize": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tntRandomRange": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:infiniteBuff": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fixMiningFatigue": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerPrefixName": {
+          "value": "#none",
+          "isDefault": false
+        },
+        "carpet:betterQuickCrafting": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:silverFishDropGravel": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:easyRefreshTrades": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:renewableDragonHead": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:drops]:projectiles_can_break_blocks": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:shulkerDupLowHealthFailChance": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:players_nether_portal_creative_delay": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:chunkCommandLevel": {
+          "value": "4",
+          "isDefault": false
+        },
+        "carpet:oakBalloonPercent": {
+          "value": "-1",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:updates]:advance_weather": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:spectatorPlayerCannotDropItem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:renewableDeepslate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:carpetCommandPermissionLevel": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:reloadrefreshirongolem": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerShulkerBoxItemHandling": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:mobs]:max_entity_cramming": {
+          "value": "24",
+          "isDefault": false
+        },
+        "carpet:shulkerDupNearbyLimit": {
+          "value": "-1.0",
+          "isDefault": false
+        },
+        "carpet:betterSignInteraction": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:witherSpawnedSoundDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePeace": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:displayPlayerSummoner": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:yeetOutOfOrderChatKick": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:getItemMaxBots": {
+          "value": "0",
+          "isDefault": false
+        },
+        "carpet:optimizedTNTHighPriority": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:shulkerHitLevitationDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:naturalSpawningUse13HeightmapExtra": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:powerfulExpMending": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:oreBreeding": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:onlyOpCanSpawnRealPlayerInWhitelist": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:movableAmethyst": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:yeetUpdateSuppressionCrash": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:safeFlight": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:beaconWorldHeight": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:sensibleEnderman": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scriptsAutoload": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:overspawningReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:shulkerBoxStackable": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:largeBarrel": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:sharedVillagerDiscounts": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:cryingObsidianNetherPortal": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandCarpetExtensionModWikiHyperlink": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:misc]:command_blocks_work": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:oreFeatureCanSendBlockUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandGetPlayerSkull": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:railPowerLimit": {
+          "value": "9",
+          "isDefault": false
+        },
+        "carpet:xpNoCooldown": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disableWindChargeEffect": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:openCarpetPermission": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:disablePortalUpdate": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandGetSystemInfo": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:dispenserBartering": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:signAllowedCommands": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:updates]:water_source_conversion": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:playerCommandCloseScreen": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:endPortalFrameCanBeMined": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:instantDispenserAndDropper": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:blockEventPacketRange": {
+          "value": "64.0",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:fall_damage": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:commandRaycast": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:playerDropHead": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:phantomSpawnAlert": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:maxChainDepth": {
+          "value": "1000000",
+          "isDefault": false
+        },
+        "carpet:villagerTradingOptimization": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:gazeDisguiseEquipmentExtended": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:safePointedDripstone": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:scheduledRandomTickPlants": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tickCommandPermission": {
+          "value": "3",
+          "isDefault": false
+        },
+        "carpet:ComparatorIgnoresStateUpdatesFromBelow": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:itemEntityCreateNetherPortalDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:drops]:block_drops": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:pearlIgnoreEntityCollision": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:botTabListNamePrefix": {
+          "value": "#none",
+          "isDefault": false
+        },
+        "carpet:breakingRestriction": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:noEnchantedGoldenAppleEating": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:strongLeash": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:betterWoodStrip": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerInteractLikeClient": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fogOff": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:testRule": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:lightUpdates": {
+          "value": "on",
+          "isDefault": false
+        },
+        "carpet:tntFuseDuration": {
+          "value": "80",
+          "isDefault": false
+        },
+        "carpet:openVillagerInventory": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:tooledTNT": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:cauldronBlockItemInteractFix": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fixedpearlloading": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:limited_crafting": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fluidDestructionDisabled": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:damageEnchantmentCompatible": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerLocatorBar": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:fixedEndCrystalSync": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:mitePearl": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:zombifiedPiglinDropLootIfAngryReintroduced": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:fakePlayerToolDamagedNotification": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandRaid": {
+          "value": "true",
+          "isDefault": false
+        },
+        "carpet:enchantCommandNoRestriction": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandBot": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "carpet:playerCommandOpenPlayerInventory": {
+          "value": "false",
+          "isDefault": false
+        },
+        "carpet:commandPlayerAction": {
+          "value": "ops",
+          "isDefault": false
+        },
+        "cca:ShulkerBoxPowerOutputExpansion": {
+          "value": "false",
+          "isDefault": false
+        },
+        "gamerule$GameRuleCategory[id\u003dminecraft:player]:players_nether_portal_default_delay": {
+          "value": "80",
+          "isDefault": false
+        }
+      },
+      "layers": [],
+      "futureLayers": []
+    }
+  ]
+}

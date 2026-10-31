@@ -1,0 +1,29 @@
+{
+  "data_version": 3,
+  "players": {
+    "tnt": {
+      "data_version": 4,
+      "pos": {
+        "x": -536.3100000119209,
+        "y": -27.0,
+        "z": -744.3805239323585
+      },
+      "direction": {
+        "yaw": 103.44977,
+        "pitch": 89.85
+      },
+      "dimension": "minecraft:overworld",
+      "gamemode": "creative",
+      "flying": false,
+      "sneaking": false,
+      "autologin": false,
+      "annotation": "",
+      "simple_action": {},
+      "script_action": {
+        "stop": {}
+      },
+      "startup_action": [],
+      "group": []
+    }
+  }
+}

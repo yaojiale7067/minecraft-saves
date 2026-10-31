@@ -1,0 +1,53 @@
+{
+  "data_version": 3,
+  "players": {
+    "1": {
+      "data_version": 4,
+      "pos": {
+        "x": -2.9999959090374514E7,
+        "y": 129.11004106709322,
+        "z": -2.9999993354120083E7
+      },
+      "direction": {
+        "yaw": 0.7458496,
+        "pitch": -7.200142
+      },
+      "dimension": "minecraft:the_nether",
+      "gamemode": "creative",
+      "flying": true,
+      "sneaking": false,
+      "autologin": false,
+      "annotation": "",
+      "simple_action": {},
+      "script_action": {
+        "stop": {}
+      },
+      "startup_action": [],
+      "group": []
+    },
+    "tnt": {
+      "data_version": 4,
+      "pos": {
+        "x": -267.78306991571566,
+        "y": 8.0,
+        "z": -2086.5217554102333
+      },
+      "direction": {
+        "yaw": 88.197754,
+        "pitch": 77.549995
+      },
+      "dimension": "minecraft:overworld",
+      "gamemode": "creative",
+      "flying": true,
+      "sneaking": false,
+      "autologin": false,
+      "annotation": "",
+      "simple_action": {},
+      "script_action": {
+        "stop": {}
+      },
+      "startup_action": [],
+      "group": []
+    }
+  }
+}

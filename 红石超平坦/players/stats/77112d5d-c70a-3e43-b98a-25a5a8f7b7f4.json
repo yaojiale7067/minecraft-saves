@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:stone_button": 1,
+      "minecraft:redstone_torch": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 49505,
+      "minecraft:total_world_time": 49571,
+      "minecraft:leave_game": 3,
+      "minecraft:play_time": 49505,
+      "minecraft:time_since_death": 49505
+    },
+    "minecraft:used": {
+      "minecraft:snow_block": 130,
+      "minecraft:tnt": 6392
+    }
+  },
+  "DataVersion": 4903
+}

@@ -1,0 +1,396 @@
+{
+  "M_zhuangshao": {
+    "name": "M_zhuangshao",
+    "desc": "末地全物品",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_end",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "Magic_muggle": {
+    "name": "Magic_muggle",
+    "desc": "麻瓜",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "_NoneShadow_": {
+    "name": "_NoneShadow_",
+    "desc": "物品缓存",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_end",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "acaciachan": {
+    "name": "acaciachan",
+    "desc": "吉祥物",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "bianjing1": {
+    "name": "bianjing1",
+    "desc": "四角边境1",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_nether",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "bianjing2": {
+    "name": "bianjing2",
+    "desc": "四角边境2",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_nether",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "bianjing3": {
+    "name": "bianjing3",
+    "desc": "四角边境3",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_nether",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "bianjing4": {
+    "name": "bianjing4",
+    "desc": "四角边境4",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_nether",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "diaolingkulou": {
+    "name": "diaolingkulou",
+    "desc": "堡垒",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_nether",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "quanguaishouji": {
+    "name": "quanguaishouji",
+    "desc": "边境堡垒收集",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "survival",
+    "flying": false,
+    "actions": {}
+  },
+  "shuasha": {
+    "name": "shuasha",
+    "desc": "刷沙收集",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "shuidao": {
+    "name": "shuidao",
+    "desc": "水道",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_end",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "tear": {
+    "name": "tear",
+    "desc": "恶魂",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_nether",
+    "mode": "survival",
+    "flying": false,
+    "actions": {}
+  },
+  "tnt": {
+    "name": "tnt",
+    "desc": "边境猪人塔处死",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "wuliu": {
+    "name": "wuliu",
+    "desc": "末地物流",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_end",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "xijita": {
+    "name": "xijita",
+    "desc": "袭击塔",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "survival",
+    "flying": false,
+    "actions": {}
+  },
+  "xijita1": {
+    "name": "xijita1",
+    "desc": "袭击塔2号",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "survival",
+    "flying": false,
+    "actions": {
+      "forward": -1.0,
+      "strafing": 1.0
+    }
+  },
+  "yisibite": {
+    "name": "yisibite",
+    "desc": "刷沙机",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_end",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "zhulingshouji": {
+    "name": "zhulingshouji",
+    "desc": "猪灵交易收集",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "zhulingsuo": {
+    "name": "zhulingsuo",
+    "desc": "猪灵交易所",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_nether",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "zhurenta": {
+    "name": "zhurenta",
+    "desc": "80万猪人塔",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:the_nether",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "zxdnb": {
+    "name": "zxdnb",
+    "desc": "640熔炉组",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "facing": [
+      0.0,
+      0.0
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  },
+  "snow": {
+    "name": "snow",
+    "desc": "雪傀儡机",
+    "pos": [
+      60.537109462548734,
+      -60.875,
+      -2151.574999988079
+    ],
+    "facing": [
+      -1.2000101,
+      179.83948
+    ],
+    "dimension": "minecraft:overworld",
+    "mode": "creative",
+    "flying": false,
+    "actions": {}
+  }
+}

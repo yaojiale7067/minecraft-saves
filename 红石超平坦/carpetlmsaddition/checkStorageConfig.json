@@ -1,0 +1,10 @@
+{
+  "port": 7000,
+  "autoStartWebsite": false,
+  "customWebsite": false,
+  "noPassword": false,
+  "expireDay": 0,
+  "storageList": [
+    "example.json"
+  ]
+}

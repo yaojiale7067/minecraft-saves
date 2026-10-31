@@ -1,0 +1,18 @@
+{
+  "port": 63085,
+  "allow-host-commands": true,
+  "max-players": 16,
+  "defaultgamemode": "survival",
+  "personalgamemode": "survival",
+  "forcegamemode": false,
+  "motd": "YJL_SAMA - 木棍服/V1.0",
+  "allow-guest-commands": false,
+  "enforce-whitelist": false,
+  "enable-upnp": true,
+  "online-mode": false,
+  "enable-uuid-fixer": false,
+  "pvp": true,
+  "get-public-ip": true,
+  "multiplayer-scope": "LAN",
+  "apply-for-all-world": true
+}
